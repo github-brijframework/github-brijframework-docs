@@ -1964,7 +1964,7 @@ div#preloader {
 .search-option input {
   border: medium none;
   padding: 6px 15px;
-  
+  width: 76%;
 }
 
 .search-option {
@@ -1977,7 +1977,7 @@ div#preloader {
   background: transparent none repeat scroll 0 0;
   border: medium none;
   font-size: 20px;
-  padding: 8px 23px;
+  padding: 9px 25px
 }
 
 .search-option button:hover {

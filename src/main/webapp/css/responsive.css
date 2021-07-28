@@ -2,6 +2,9 @@
   .work-right-text {
     padding: 150px 150px;
   }
+  .search-option input {
+    width: 87%;
+  }
 }
 
 /* Normal desktop :992px. */
@@ -260,7 +263,7 @@
     padding: 100px 0;
   }
   .search-option input {
-    width: 74%;
+    width: 83%;
   }
   .header-bottom h2 {
     font-size: 20px;
